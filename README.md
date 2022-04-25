@@ -5,3 +5,7 @@
 In this project, we use reinforcement learning algorithms coupled with convolutional neural networks to train our agent to play the game Chrome Dino Run. Using reinforcement learning, we present a model to control policies directly from high-dimensional sensory input. Reinforcement Learning is one of the most advanced sets of algorithms known to mankind that can compete in games and perform at par or even better than humans. We implement both feature-extraction-based algorithms and reinforcement learning methods to learn to control a Chrome offline dinosaur game. The model is a convolutional neural network, trained, whose input is raw pixels.
 
 Test run - https://screenrec.com/share/18QGTjAice
+
+
+https://user-images.githubusercontent.com/86602285/165075301-38101387-2b09-4c03-921e-72b78dcf5b0a.mp4
+
