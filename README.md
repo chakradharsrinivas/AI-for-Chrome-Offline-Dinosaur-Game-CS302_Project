@@ -9,9 +9,14 @@ Test run - https://screenrec.com/share/18QGTjAice
 
 https://user-images.githubusercontent.com/86602285/165075301-38101387-2b09-4c03-921e-72b78dcf5b0a.mp4
 
+### After 55-60 test runs
+
+https://user-images.githubusercontent.com/86602285/165428699-8ecd4e49-1a2f-4461-8673-41829c9a051b.mp4
 
 ### After 70-80 test runs
 https://user-images.githubusercontent.com/86602285/165423116-7a1eb29b-7e3c-4539-baaf-7162d5bae050.mp4
 
 ### After 180-200 test runs
 https://user-images.githubusercontent.com/86602285/165423113-f19ff9d6-9f26-4f52-98cc-19dee6893039.mp4
+
+
